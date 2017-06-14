@@ -1,0 +1,7 @@
+2017-06-09 15:59:40,858 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-06-09 15:59:40,858 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-06-09 15:59:44,578 - BrowserEngine - INFO - Starting chrome browser.
+2017-06-09 15:59:46,201 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-06-09 15:59:47,655 - BrowserEngine - INFO - Maximinze the current windows.
+2017-06-09 15:59:47,657 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-06-09 15:59:49,026 - BaiduSearch - INFO - baidu closed......

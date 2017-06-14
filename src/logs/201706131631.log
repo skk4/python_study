@@ -1,0 +1,25 @@
+2017-06-13 16:31:14,279 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-06-13 16:31:14,279 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-06-13 16:31:18,197 - BrowserEngine - INFO - Starting chrome browser.
+2017-06-13 16:31:20,473 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-06-13 16:31:21,940 - BrowserEngine - INFO - Maximinze the current windows.
+2017-06-13 16:31:21,944 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-06-13 16:31:22,036 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-06-13 16:31:22,293 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-06-13 16:31:22,349 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-06-13 16:31:22,451 - BasePage - INFO - The element '  ' was clicked.
+2017-06-13 16:31:24,632 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-06-13 16:31:24,641 - BasePage - INFO - Current page title is selenium_百度搜索
+2017-06-13 16:31:24,644 - BaiduSearch - INFO - baidu closed......
+2017-06-13 16:31:27,688 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-06-13 16:31:27,688 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-06-13 16:31:31,779 - BrowserEngine - INFO - Starting chrome browser.
+2017-06-13 16:31:33,144 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-06-13 16:31:34,664 - BrowserEngine - INFO - Maximinze the current windows.
+2017-06-13 16:31:34,665 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-06-13 16:31:34,711 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-06-13 16:31:34,880 - BasePage - INFO - Had type ' python ' in inputBox
+2017-06-13 16:31:34,927 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-06-13 16:31:35,033 - BasePage - INFO - The element '  ' was clicked.
+2017-06-13 16:31:37,220 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-06-13 16:31:37,220 - BaiduSearch - INFO - baidu closed......

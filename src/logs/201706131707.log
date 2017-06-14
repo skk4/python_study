@@ -1,0 +1,26 @@
+2017-06-13 17:07:25,346 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-06-13 17:07:25,346 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-06-13 17:07:29,832 - BrowserEngine - INFO - Starting chrome browser.
+2017-06-13 17:07:31,115 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-06-13 17:07:32,628 - BrowserEngine - INFO - Maximinze the current windows.
+2017-06-13 17:07:32,630 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-06-13 17:07:32,677 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-06-13 17:07:32,882 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-06-13 17:07:32,938 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-06-13 17:07:33,049 - BasePage - INFO - The element '  ' was clicked.
+2017-06-13 17:07:35,247 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-06-13 17:07:35,253 - BasePage - INFO - Current page title is selenium_百度搜索
+2017-06-13 17:07:35,256 - BaiduSearch - INFO - baidu closed......
+2017-06-13 17:07:38,298 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-06-13 17:07:38,299 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-06-13 17:07:42,536 - BrowserEngine - INFO - Starting chrome browser.
+2017-06-13 17:07:44,546 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-06-13 17:07:46,020 - BrowserEngine - INFO - Maximinze the current windows.
+2017-06-13 17:07:46,025 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-06-13 17:07:46,091 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-06-13 17:07:46,263 - BasePage - INFO - Had type ' python ' in inputBox
+2017-06-13 17:07:46,316 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-06-13 17:07:46,427 - BasePage - INFO - The element '  ' was clicked.
+2017-06-13 17:07:48,585 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-06-13 17:07:48,591 - BasePage - INFO - Current page title is python_百度搜索
+2017-06-13 17:07:48,595 - BaiduSearch - INFO - baidu closed......

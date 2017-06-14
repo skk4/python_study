@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/Browser/126.py=utf-8
+encoding//src/Browser/baidu.py=gbk
+encoding//src/Browser/employeer.py=UTF-8
+encoding//src/Browser/testbaidu.py=utf-8
+encoding//src/Browser/youdao.py=utf-8
+encoding//src/framework/base_page.py=utf-8
+encoding//src/framework/browser_engine.py=utf-8
+encoding//src/framework/logger.py=utf-8
+encoding//src/pageobjects/baidu_homepage.py=utf-8
+encoding//src/testsuits/TestRunner.py=utf-8
+encoding//src/testsuits/TestRunner2.py=utf-8
+encoding//src/testsuits/baidu_search.py=utf-8
