@@ -1,0 +1,13 @@
+2017-07-10 17:36:18,803 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-07-10 17:36:18,805 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-07-10 17:36:23,339 - BrowserEngine - INFO - Starting chrome browser.
+2017-07-10 17:36:25,213 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-07-10 17:36:26,698 - BrowserEngine - INFO - Maximinze the current windows.
+2017-07-10 17:36:26,700 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-07-10 17:36:26,775 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-07-10 17:36:26,963 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-07-10 17:36:27,016 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-07-10 17:36:27,114 - BasePage - INFO - The element '  ' was clicked.
+2017-07-10 17:36:27,132 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-07-10 17:36:27,227 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-07-10 17:36:27,227 - BaiduSearch - INFO - baidu closed......

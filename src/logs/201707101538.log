@@ -1,0 +1,30 @@
+2017-07-10 15:38:24,766 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-07-10 15:38:24,767 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-07-10 15:38:29,374 - BrowserEngine - INFO - Starting chrome browser.
+2017-07-10 15:38:31,859 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-07-10 15:38:33,191 - BrowserEngine - INFO - Maximinze the current windows.
+2017-07-10 15:38:33,194 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-07-10 15:38:33,313 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-07-10 15:38:33,529 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-07-10 15:38:33,551 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-07-10 15:38:33,667 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-07-10 15:38:33,730 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-07-10 15:38:33,845 - BasePage - INFO - The element '  ' was clicked.
+2017-07-10 15:38:33,871 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-07-10 15:38:33,917 - BasePage - INFO - The element '  ' was clicked.
+2017-07-10 15:38:36,275 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-07-10 15:38:36,279 - BasePage - INFO - Current page title is selenium_百度搜索
+2017-07-10 15:38:36,285 - BaiduSearch - INFO - baidu closed......
+2017-07-10 15:38:39,336 - BrowserEngine - INFO - You had selected Chrome browser. 
+2017-07-10 15:38:39,336 - BrowserEngine - INFO - You had via to https://www.baidu.com url.
+2017-07-10 15:38:44,153 - BrowserEngine - INFO - Starting chrome browser.
+2017-07-10 15:38:45,855 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-07-10 15:38:47,299 - BrowserEngine - INFO - Maximinze the current windows.
+2017-07-10 15:38:47,301 - BrowserEngine - INFO - Set implicitly wait 10 sec.
+2017-07-10 15:38:47,358 - BasePage - INFO - Had find the element '  ' successfulby id via value: kw 
+2017-07-10 15:38:47,546 - BasePage - INFO - Had type ' python ' in inputBox
+2017-07-10 15:38:47,612 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-07-10 15:38:47,729 - BasePage - INFO - The element '  ' was clicked.
+2017-07-10 15:38:50,056 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-07-10 15:38:50,062 - BasePage - INFO - Current page title is python_百度搜索
+2017-07-10 15:38:50,066 - BaiduSearch - INFO - baidu closed......

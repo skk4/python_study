@@ -10,7 +10,7 @@ import HTMLTestRunner
 
 '''
 构建addTest方法
-suite = unittest.TestSuite()
+suite = unittest.TestSuite()    
 suite.addTest(BaiduSearch('test_baidu_search'))
 suite.addTest(BaiduSearch('test_baidu_search2'))
 '''

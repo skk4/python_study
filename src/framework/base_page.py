@@ -49,7 +49,7 @@ class BasePage(object):
             
         except NameError as e:
             logger.error("Failed to take screenshot! %s" % e)
-            self.get_windows_img() 
+            self.get_windows_img()
             
                  
     #定位元素方法        
