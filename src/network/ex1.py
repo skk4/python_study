@@ -31,4 +31,5 @@ while True:
     
     #关闭套接字连接
     c.close()
-s.close()         
+s.close()     
+

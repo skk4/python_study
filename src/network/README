@@ -1,0 +1,13 @@
+     /docs - written materials: internet docs, computers, literature, politics
+
+There are quite a few documents here that you might want to read or archive.
+In fact there are too many to describe in this readme. Most as fairly self-
+descriptive, but you might want to start with short but highly informative
+documents that reside in about-the-net.
+
+Remember files ending in Z are in UNIX compress format. tar files are in UNIX
+tape archive format (this is common unix practice).
+
+Sustainable Agriculture has been moved to /pub/academic/agriculture 
+
+See INDEX for the contents of each directory

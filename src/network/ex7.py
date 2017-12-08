@@ -1,16 +1,21 @@
+# -*- coding:utf-8 -*-
 '''
 Created on 2017.7.13
 
 @author: Administrator
 '''
-#¿Í»§¶Ë·ÃÎÊ quux.org /Ê×Ò³
+#å®¢æˆ·ç«¯è®¿é—® quux.org /é¦–é¡µ
 import socket,sys
+'''
 script = sys.argv[0]
 port =70
 host=sys.argv[1]
 
 filename=sys.argv[2]
-
+'''
+port = 51423
+host = '192.168.65.150'
+filename = 'hello ,xieshangji from xiamen'
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 try:
     

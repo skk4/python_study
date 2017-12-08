@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- sample xml document - Chapter 8 -sample.xml -->
+<book>
+    <title>Sample XML Thing</title>
+    <author>
+        <name><first>Benjamin</first> <last>Smith</last></name>
+        <affiliation>Springy Widgets, Inc.</affiliation>
+    </author>
+    <chapter number='1'>
+        <title>First Chapter</title>
+        <para>
+            I think widgets are great. You should buy lots of them from
+            <company>Springy widgets, Inc</company>
+        </para>
+    </chapter>
+</book>
